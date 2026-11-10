@@ -1,0 +1,10 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/MrPossible001/mirfak-parcel-service-english/main/MirfakParcelService.version",
+	"modName":"Mirfak Parcel Service [English]",
+	"modThreadId":36279,
+	"modVersion":{
+		"major":0,
+		"minor":7,
+		"patch":"4-EN"
+	}
+}
